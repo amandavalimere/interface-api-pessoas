@@ -1,0 +1,28 @@
+:root{
+    --cor1:#92BBB1;
+    --cor2:#508377;
+    --cor3:#FFFFFF;
+    --cor4:#000000;
+
+}
+.primeira{
+    width: 100%;
+}
+
+
+.certo{
+    width: 400px;
+    height: 400px;
+}
+
+body{
+  background-color: var(--cor3)!important;
+}
+
+.form-control {
+    background-color: var(--cor1)!important;
+}
+
+.Cadastro {
+    margin-left: 400px;
+}
